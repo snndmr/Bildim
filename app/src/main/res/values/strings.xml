@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">Bildim!</string>
+    <string name="icon">icon</string>
+    <string name="enter_answer">Cevabını Yaz</string>
+    <string name="bildim">Bildim!</string>
+    <string name="show_answer">Cevabı Göster</string>
+
+    <string-array name="titles">
+        <item>Bilmece 1</item>
+        <item>Bilmece 2</item>
+        <item>Bilmece 3</item>
+        <item>Bilmece 4</item>
+        <item>Bilmece 5</item>
+        <item>Bilmece 6</item>
+        <item>Bilmece 7</item>
+        <item>Bilmece 8</item>
+        <item>Bilmece 9</item>
+        <item>Bilmece 10</item>
+        <item>Bilmece 11</item>
+        <item>Bilmece 12</item>
+        <item>Bilmece 13</item>
+        <item>Bilmece 14</item>
+        <item>Bilmece 15</item>
+        <item>Bilmece 16</item>
+        <item>Bilmece 17</item>
+        <item>Bilmece 18</item>
+        <item>Bilmece 19</item>
+        <item>Bilmece 20</item>
+        <item>Bilmece 21</item>
+        <item>Bilmece 22</item>
+        <item>Bilmece 23</item>
+        <item>Bilmece 24</item>
+        <item>Bilmece 25</item>
+        <item>Bilmece 26</item>
+        <item>Bilmece 27</item>
+        <item>Bilmece 28</item>
+        <item>Bilmece 29</item>
+        <item>Bilmece 30</item>
+        <item>Bilmece 31</item>
+        <item>Bilmece 32</item>
+        <item>Bilmece 33</item>
+        <item>Bilmece 34</item>
+        <item>Bilmece 35</item>
+        <item>Bilmece 36</item>
+        <item>Bilmece 37</item>
+        <item>Bilmece 38</item>
+        <item>Bilmece 39</item>
+        <item>Bilmece 40</item>
+        <item>Bilmece 41</item>
+        <item>Bilmece 42</item>
+        <item>Bilmece 43</item>
+        <item>Bilmece 44</item>
+        <item>Bilmece 45</item>
+        <item>Bilmece 46</item>
+        <item>Bilmece 47</item>
+        <item>Bilmece 48</item>
+        <item>Bilmece 49</item>
+        <item>Bilmece 50</item>
+        <item>Bilmece 51</item>
+        <item>Bilmece 52</item>
+        <item>Bilmece 53</item>
+        <item>Bilmece 54</item>
+        <item>Bilmece 55</item>
+        <item>Bilmece 56</item>
+        <item>Bilmece 57</item>
+        <item>Bilmece 58</item>
+        <item>Bilmece 59</item>
+        <item>Bilmece 60</item>
+        <item>Bilmece 61</item>
+        <item>Bilmece 62</item>
+        <item>Bilmece 63</item>
+        <item>Bilmece 64</item>
+        <item>Bilmece 65</item>
+        <item>Bilmece 66</item>
+        <item>Bilmece 67</item>
+        <item>Bilmece 68</item>
+        <item>Bilmece 69</item>
+        <item>Bilmece 70</item>
+        <item>Bilmece 71</item>
+        <item>Bilmece 72</item>
+        <item>Bilmece 73</item>
+        <item>Bilmece 74</item>
+        <item>Bilmece 75</item>
+        <item>Bilmece 76</item>
+        <item>Bilmece 77</item>
+        <item>Bilmece 78</item>
+        <item>Bilmece 79</item>
+        <item>Bilmece 80</item>
+        <item>Bilmece 81</item>
+        <item>Bilmece 82</item>
+        <item>Bilmece 83</item>
+        <item>Bilmece 84</item>
+        <item>Bilmece 85</item>
+        <item>Bilmece 86</item>
+        <item>Bilmece 87</item>
+        <item>Bilmece 88</item>
+        <item>Bilmece 89</item>
+        <item>Bilmece 90</item>
+        <item>Bilmece 91</item>
+        <item>Bilmece 92</item>
+        <item>Bilmece 93</item>
+        <item>Bilmece 94</item>
+        <item>Bilmece 95</item>
+        <item>Bilmece 96</item>
+        <item>Bilmece 97</item>
+        <item>Bilmece 98</item>
+        <item>Bilmece 99</item>
+        <item>Bilmece 100</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Ay varken uçar, gün varken kaçar.</item>
+        <item>Altından su içerim, üstünde çayır biçerim.</item>
+        <item>Yeraltında yağlı kayış.</item>
+        <item>Kanadı var, kuş değil. Boynuzu var, koç değil.</item>
+        <item>Çiçek onun, dal onun yediğimiz bal onun iğnesi var batırır kanadı var götürür.</item>
+        <item>Gelişi aslan gibi, duruşu kaplan gibi, yayılır hasır gibi, sürünür esir gibi.</item>
+        <item>Karşıdan baktım hiç yok yanına vardım pek çok.</item>
+        <item>Karşıdan gördüm bir taş yanına vardım dört ayak bir baş.</item>
+        <item>Yer altında yuvası var, fırça gibi dikeni var.</item>
+        <item>Alçacık dallı yemesi ballı.ÇilekTavan üstü takır takır zannedersin halı dokur.</item>
+        <item>Üstü mermer altı mermer, içinde gelin oynar.</item>
+        <item>Evi sırtında, ayağı karnında. İzi yıldız, gözleri boynuz.</item>
+        <item>İnim inim inler, cümle alem dinler.</item>
+        <item>Dalda durur, elde durmaz.</item>
+        <item>Kat kat çiçek, yemeği yenecek.</item>
+        <item>Bir kızım var, kat kat çeyizi var.</item>
+        <item>Kat kat katmer değil, yenir ama meyve değil.</item>
+        <item>Yer altında sakallı dede.</item>
+        <item>Alçacık boyu var, mor kadifeden donu var.</item>
+        <item>Arabadan atladı, pantolonu patladı.</item>
+        <item>Altı deri, üstü deri, içinde bir avuç darı.</item>
+        <item>Hanım içerde, saçı dışarıda.</item>
+        <item>İki çubuk, bir makas, hokkabaz mı hokkabaz.</item>
+        <item>Daldan dala atlarım, kuyruğumdan sarkarım.</item>
+        <item>Dağdan gelir arık arık, ayağın da demir çarık.</item>
+        <item>O odanın içinde, oda onun içinde.</item>
+        <item>Deniz üstünde, yufka açar.</item>
+        <item>Yarım kaşık, duvara yapışık.</item>
+        <item>Hep artan ama hiç azalmayan şey nedir?</item>
+        <item>Yapanın ihtiyacı yoktur, alan da kullanmaz. Kullanan ne görebilir ne de hissedebilir. Tarif ettiğim ne?</item>
+        <item>Kuyruklu kumbara"\n"Yemek taşır ambara.</item>
+        <item>Sarıdır, sarkar;"\n"“Düşeceğim” diye korkar.</item>
+        <item>Çarşıdan aldım bir tane;"\n"Eve geldim bin tane.</item>
+        <item>İstanbul’da süt pişti,"\n"Kokusu buraya düştü.</item>
+        <item>Gözenek gözenek gözü var;"\n"Beyler önünde gözü var.</item>
+        <item>Yer altında sakallı dede,"\n"Dikenler de Nine, sökenler de Nine.</item>
+        <item>Ufacık fıçıcık"\n"İçi dolu turşucuk.</item>
+        <item>Havadan geldi,"\n"Başımı deldi.</item>
+        <item>Elde yapılır,"\n"Ete asılır.</item>
+        <item>Kara koyun meler gelir,"\n"Dağı taşı deler gelir.</item>
+        <item>Kıvrım kıvrım kıvrılır çizgisi,"\n"Ayırır kara ile denizi.</item>
+        <item>Canlıdır, ama bizim gibi gezemez,"\n"Su içer, ama bizim gibi ağzı yoktur.</item>
+        <item>Bir sıvıdır,"\n"Toprağın derinliklerinden çıkarırız;"\n"O olmazsa, taşıtsız kalırız.</item>
+        <item>Babam kaya, annem taştır;"\n"Ben olmazsam karnınız açtır.</item>
+        <item>Şekere benzer, tadı yok;"\n"Havada uçar, kanadı yok.</item>
+        <item>Suda ayılır,"\n"Karada bayılır.</item>
+        <item>Canlı kaçar,"\n"Cansız kovalar.</item>
+        <item>Etten ipten yapısı,"\n"Üstündedir kapısı.</item>
+        <item>Kandilde var, mumda yok;"\n"Mendilde var, çuvalda yok.</item>
+        <item>Tavan içinde takır tukur,"\n"Zan edersin halı dokur.</item>
+        <item>Sende var, bende var;"\n"Bir kuru çöpte var.</item>
+        <item>Kırmızı duvar üstünde"\n"Ak güvercin oturur.</item>
+        <item>Sıra sıra odalar,"\n"Birbirini kovalar.</item>
+        <item>Dam üstünde teke bağlı,"\n"Boynuzları köke bağlı.</item>
+        <item>Ne kanı var, ne canı;"\n"Beş tânedir parmağı.</item>
+        <item>Kuyruğu var, at değil;"\n"Kanadı var, kuş değil.</item>
+        <item>Kanadı var, kuş değil;"\n"Boynuzu var, koç değil.</item>
+        <item>Çalı dibinde çıra yanar,"\n"Güneş gibi rengi var.</item>
+        <item>Yer altında"\n"Yağlı kayış.</item>
+        <item>Yiyecek dolu yapısı,"\n"Unutulmuş kapısı.</item>
+        <item>İki Kaşık,"\n"Duvara yapışık.</item>
+        <item>Elime bir cam aldım,"\n"Düşüp içinde kaldım.</item>
+        <item>Kartopunu oymuşlar,"\n"İçine havuz Koymuşlar.</item>
+        <item>Yol üstünde"\n"Oklu yumak.</item>
+        <item>Dikdörtgenden geçilir,"\n"Evin içine girilir.</item>
+        <item>Gece kapanır,"\n"Gündüz açılır.</item>
+        <item>Denizden gider batmadan,"\n"Havadan gider uçmadan.</item>
+        <item>Dam başında kadı gibi,"\n"Göğe bakar cadı gibi.</item>
+        <item>Kırmızı duvar üstünde"\n"Ak güvercin asılı.</item>
+        <item>Karaydı kırmızı oldu,"\n"Herkesin gönlünü aldı.</item>
+        <item>Ben bir düş gördüm,"\n"Et sakallı kuş gördüm.</item>
+        <item>Köprüden gölgesiz geçer,"\n"Ben dururum o gider.</item>
+        <item>Dizi dizi tencereler,"\n"Parmak gözlü çingeneler.</item>
+        <item>Biz iki kardeşiz;"\n"Her şeyi görürüz,"\n"Birbirimizi görmeyiz.</item>
+        <item>Kara deve, girmez eve;"\n"Kes başını girsin eve.</item>
+        <item>Kabuğu var, içi yok;"\n"Dayak yer suçu yok.</item>
+        <item>Yer yer doymaz,"\n"Oturur kalkmaz.</item>
+        <item>Yazın giyinir,"\n"Kışın soyunur.</item>
+        <item>Sarı sarı Dükkânlar,"\n"İçinde bezingânlar.</item>
+        <item>Küçücük papaz,"\n"Bayırı çıkamaz.</item>
+        <item>Altı mermer, üstü mermer,"\n"İçinde bir bülbül öter.</item>
+        <item>İçi taş. Dışı taş"\n"Sen içinde dolaş.</item>
+        <item>Ağadan gelin aldım,"\n"Belâyı satın aldım.</item>
+        <item>Topraktan çıkar yeşil,"\n"Belinde var püskül.</item>
+        <item>Zenginin elinde,"\n"Fakirin dilinde.</item>
+        <item>Tren geldi “İS” dedi,"\n"Tabak düşdü “TAN” dedi,"\n"Annem bana “BUL” dedi.</item>
+        <item>Evden asılır,"\n"Dağda atılır.</item>
+        <item>Fırında pişer,"\n"Mideye düşer.</item>
+        <item>Kaftanı kara, gömleği sarı;"\n"Ana yüzlü koca karı.</item>
+        <item>Aksaray’da sultan oturur;"\n"Onu yiyen, ölümden kurtulur.</item>
+        <item>Yeşil Taht Üstünde var bir peri,"\n"El uzattım, râkip çekti hançeri.</item>
+        <item>Hırsız içerde,"\n"Başı dışarda</item>
+        <item>Parasını el alır,"\n"Dumanını yel alır,"\n"Zehiri bize kalır.</item>
+        <item>Çarşıdan aldım kapkara,"\n"Evde, kırmızılaştı maskara.</item>
+        <item>Tek gözlü, tek bacaklı;"\n"Dikiş - nakışta aklı.</item>
+        <item>El kadar mezar,"\n"Dünyayı gezer.</item>
+        <item>Nar dânesi, nur dânesi;"\n"Dört köşenin bir dânesi.</item>
+        <item>Bilmece bildirmece,"\n"El üstünde kaydırmaca.</item>
+        <item>Altı deri, üstü deri,"\n"İçinde bir avuç deri.</item>
+        <item>Gökte gördüm köprüyü,"\n"Rengi yedi türlüyü.</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>yarasa</item>
+        <item>koyun</item>
+        <item>yılan</item>
+        <item>kelebek</item>
+        <item>arı</item>
+        <item>kedi</item>
+        <item>karınca</item>
+        <item>kaplumbağa</item>
+        <item>kirpi</item>
+        <item>fare</item>
+        <item>dil</item>
+        <item>salyangoz</item>
+        <item>davul</item>
+        <item>kuş</item>
+        <item>karnabahar</item>
+        <item>lahana</item>
+        <item>soğan</item>
+        <item>pırasa</item>
+        <item>patlıcan</item>
+        <item>karpuz</item>
+        <item>i̇ncir</item>
+        <item>mısır</item>
+        <item>leylek</item>
+        <item>maymun</item>
+        <item>at</item>
+        <item>ayna</item>
+        <item>dalga</item>
+        <item>kulak</item>
+        <item>yaş</item>
+        <item>tabut</item>
+
+        <item>kaşık</item>
+        <item>ayva</item>
+        <item>nar</item>
+        <item>mektup</item>
+        <item>bal</item>
+        <item>soğan</item>
+        <item>li̇mon</item>
+        <item>dolu</item>
+        <item>küpe</item>
+        <item>tren</item>
+        <item>hari̇ta</item>
+        <item>bi̇tki̇</item>
+        <item>petrol</item>
+        <item>toprak</item>
+        <item>kar</item>
+        <item>balık</item>
+        <item>atlı araba</item>
+        <item>çuval</item>
+        <item>di̇l</item>
+        <item>fare</item>
+        <item>i̇si̇m</item>
+        <item>di̇ş</item>
+        <item>tren</item>
+        <item>kabak</item>
+        <item>eldi̇ven</item>
+        <item>balık</item>
+        <item>kelebek</item>
+        <item>çi̇ğdem</item>
+        <item>yılan</item>
+        <item>yumurta</item>
+        <item>kulak</item>
+        <item>ayna</item>
+        <item>yumurta</item>
+        <item>kirpi</item>
+        <item>kapı</item>
+        <item>perde</item>
+        <item>gemi̇</item>
+        <item>baca</item>
+        <item>di̇ş</item>
+        <item>çay</item>
+        <item>horoz</item>
+        <item>ses</item>
+        <item>kurbağa</item>
+        <item>göz</item>
+        <item>şemsi̇ye</item>
+        <item>davul</item>
+        <item>fırın</item>
+        <item>ağaç</item>
+        <item>keçi̇ boynozu</item>
+        <item>bi̇t</item>
+        <item>ağız ve di̇l</item>
+        <item>mi̇nare</item>
+        <item>nezle</item>
+        <item>mısır</item>
+        <item>para</item>
+        <item>i̇stanbul</item>
+        <item>tüfek</item>
+        <item>ekmek</item>
+        <item>kestane</item>
+        <item>yumurta</item>
+        <item>gül</item>
+        <item>çi̇vi̇</item>
+        <item>si̇gara</item>
+        <item>kömür</item>
+        <item>i̇ğde</item>
+        <item>ayakkabı</item>
+        <item>geli̇n</item>
+        <item>sabun</item>
+        <item>incir</item>
+        <item>gökkuşağı</item>
+    </string-array>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_gradient"
+    android:padding="@dimen/padding_big"
+    tools:context=".PuzzleActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutInner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/margin_big">
+
+        <TextView
+            android:id="@+id/textViewPuzzleTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_big"
+            android:layout_marginBottom="@dimen/margin_big"
+            android:text="@string/app_name"
+            android:textSize="@dimen/text_normal"
+            android:textStyle="bold|italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textViewPuzzleQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewPuzzleTitle"
+            android:layout_marginTop="@dimen/margin_big"
+            android:layout_marginBottom="@dimen/margin_big"
+            android:text="@string/app_name"
+            android:textAlignment="center"
+            android:textSize="@dimen/text_small"
+            android:textStyle="normal|italic"
+            android:typeface="serif" />
+
+        <EditText
+            android:id="@+id/editTextAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewPuzzleQuestion"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_big"
+            android:background="@null"
+            android:hint="@string/enter_answer"
+            android:importantForAutofill="no"
+            android:inputType="text"
+            android:maxEms="10"
+            android:maxLines="1"
+            android:textAlignment="center"
+            android:textSize="@dimen/text_small"
+            android:textStyle="normal|italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textViewAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewPuzzleQuestion"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_big"
+            android:textAlignment="center"
+            android:textSize="@dimen/text_small"
+            android:textStyle="normal|italic"
+            android:typeface="serif" />
+
+        <Button
+            android:id="@+id/buttonCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editTextAnswer"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:layout_marginBottom="@dimen/margin_big"
+            android:background="@drawable/ripple"
+            android:text="@string/bildim"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_small"
+            android:textStyle="normal|italic"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/buttonShowAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/relativeLayoutInner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_big"
+        android:background="@drawable/ripple"
+        android:text="@string/show_answer"
+        android:textAllCaps="false"
+        android:textSize="@dimen/text_small"
+        android:textStyle="normal|italic"
+        android:typeface="serif" />
+
+</RelativeLayout>
